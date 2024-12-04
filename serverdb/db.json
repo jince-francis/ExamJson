@@ -1,11 +1,12 @@
 {
-    "inventory":[
-        {
-            "name":"chips",
-            "category":"chips",
-            "price":23,
-            "quantity":10,
-            "description":"description"
-        }
-    ]
+  "inventory": [
+    {
+      "name": "asdf",
+      "category": "asdf",
+      "price": "23",
+      "stock": "23",
+      "description": "asfd",
+      "id": 1
+    }
+  ]
 }
